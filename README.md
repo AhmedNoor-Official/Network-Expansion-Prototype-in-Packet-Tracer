@@ -7,6 +7,8 @@ Scenario
 Recently there has been a change in the landscape of the local Halifax branch in Hatfield by adding a new floor to the main building. 
 The computer network of the branch needs to be expanded too. The network designer has come with the topology in Figure 1: 
 
+Figure 1:
+
 
 <img width="488" alt="image" src="https://user-images.githubusercontent.com/100693212/181981871-d36ae7af-07fe-49c9-b061-ad8aded80e9a.png">
 
